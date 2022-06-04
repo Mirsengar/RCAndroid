@@ -1,0 +1,4 @@
+<resources >
+    <string name = "app_name" >RCAndroid</string >
+        <string name="error">خطایی رخ داده است</string>
+</resources >
